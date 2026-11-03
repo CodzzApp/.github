@@ -1,7 +1,10 @@
 <div align="center">
 
 <a href="https://codzz.com.br">
-  <img src="https://docs.codzz.com.br/logo_codzz_sem_fundo.svg" alt="Codzz" width="180">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodzzApp/.github/main/profile/logo_simbolo_branco.svg">
+    <img src="https://raw.githubusercontent.com/CodzzApp/.github/main/profile/logo_simbolo.svg" alt="Codzz" width="140">
+  </picture>
 </a>
 
 # Codzz
@@ -112,10 +115,4 @@ Dúvidas, parcerias ou oportunidades:
 
 [contato@codzz.com.br](mailto:contato@codzz.com.br)
 
-</div>
-
----
-
-<div align="center">
-  <sub>Codzz — a tecnologia que vende por você.</sub>
 </div>
