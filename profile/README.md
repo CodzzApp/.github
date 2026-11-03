@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://codzz.com.br">
-  <img src="https://codzz.com.br/codzz_logo_nbg.png" alt="Codzz" width="180">
+  <img src="https://docs.codzz.com.br/logo_codzz_sem_fundo.svg" alt="Codzz" width="180">
 </a>
 
 # Codzz
@@ -107,8 +107,6 @@ Coloque seu atendimento no automático e tenha mais tempo para fazer seu negóci
 <div align="center">
 
 ### [Acesse codzz.com.br →](https://codzz.com.br)
-
-Documentação e detalhes da plataforma: [docs.codzz.com.br](https://docs.codzz.com.br)
 
 Dúvidas, parcerias ou oportunidades:
 
